@@ -1,0 +1,94 @@
+{
+  "columns": [
+    {
+      "field": "EST",
+      "title": "EST",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 83
+    },
+    {
+      "field": "Temperature",
+      "title": "Temperature",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 140
+    },
+    {
+      "field": "DewPoint",
+      "title": "DewPoint",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 119
+    },
+    {
+      "field": "Humidity",
+      "title": "Humidity",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 116
+    },
+    {
+      "field": "Sea Level PressureIn",
+      "title": "Sea Level PressureIn",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 191
+    },
+    {
+      "field": "VisibilityMiles",
+      "title": "VisibilityMiles",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 145
+    },
+    {
+      "field": "WindSpeedMPH",
+      "title": "WindSpeedMPH",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 163
+    },
+    {
+      "field": "PrecipitationIn",
+      "title": "PrecipitationIn",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 151
+    },
+    {
+      "field": "Events",
+      "title": "Events",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 101
+    },
+    {
+      "field": "WindDirDegrees",
+      "title": "WindDirDegrees",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 164
+    }
+  ]
+}
